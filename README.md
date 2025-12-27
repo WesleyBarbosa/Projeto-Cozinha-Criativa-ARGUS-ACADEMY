@@ -58,8 +58,7 @@ A organização foi feita no padrão do **GitHub Pages**, usando `index.html` de
 ├─ sobremesas/
 │  └─ index.html
 ├─ receitas/
-│  └─ brigadeiro-gourmet-nozes/
-│     └─ index.html
+│  └─ brigadeiro-gourmet-nozes.html
 └─ pages/
    ├─ adicionar-receita/
    │  └─ index.html
