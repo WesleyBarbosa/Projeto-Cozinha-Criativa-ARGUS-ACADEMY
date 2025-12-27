@@ -1,2 +1,81 @@
 # Projeto-Cozinha-Criativa-ARGUS-ACADEMY
-Neste projeto irei testar meu conhecimento em HTML5 para o Curso de HTML5 - ARGUS ACADEMY
+
+Neste projeto eu vou testar (na prática) meu conhecimento em **HTML5** no **Curso de HTML5 — ARGUS ACADEMY**, montando o site **Cozinha Criativa** com páginas e componentes completos (header, main, footer, navegação e modal).
+
+---
+
+## 🎯 Objetivo do projeto
+Construir a estrutura do site “Cozinha Criativa” usando HTML5, seguindo o passo a passo do curso, organizando as páginas e consolidando boas práticas de marcação.
+
+---
+
+## 🧰 Tecnologias
+- **HTML5**
+- (Opcional no projeto) **CSS3** e **JavaScript** para evolução do layout/interações
+
+---
+
+## ✅ Progresso (Seção 15 — Projeto prático)
+Checklist conforme as aulas do curso:
+
+- [x] **173.** Iniciando o projeto Cozinha Criativa *(5m)*
+- [x] **174.** Adicionando o header *(12m)*
+- [x] **175.** Adicionando o main *(10m)*
+- [x] **176.** Adicionando o footer *(3m)*
+- [x] **177.** Página sobremesas — Adicionando o header e o footer *(4m)*
+- [x] **178.** Página sobremesas — Adicionando o main *(11m)*
+- [ ] **179.** Página de receita — Adicionando a página, navegação, header e footer *(8m)*
+- [ ] **180.** URL relativa e absoluta *(11m)*
+- [ ] **181.** Página de receita — Adicionando o main parte 1 *(4m)*
+- [ ] **182.** Página de receita — Adicionando o main parte 2 *(5m)*
+- [ ] **183.** Página de receita — Adicionando o main parte 3 *(6m)*
+- [ ] **184.** Página de compartilhamento de receitas — Adicionando o header e o footer *(2m)*
+- [ ] **185.** Página de compartilhamento de receitas — Adicionando o main *(15m)*
+- [ ] **186.** Adicionando um modal para assinatura de newsletter parte 1 *(5m)*
+- [ ] **187.** Adicionando um modal para assinatura de newsletter parte 2 *(7m)*
+- [ ] **188.** Adicionando um modal para assinatura de newsletter parte 3 *(17m)*
+- [ ] **189.** Ajustes finais do projeto prático e proposta de desafio *(5m)*
+
+---
+
+PROJETO-COZINHA-CRIATIVA-ARGUS-ACADEMY/
+├─ assets/
+│  └─ images/
+├─ bebidas/
+│  └─ index.html
+├─ carnes/
+│  └─ index.html
+├─ massas/
+│  └─ index.html
+├─ sobremesas/
+│  └─ index.html
+├─ receitas/
+│  └─ brigadeiro-gourmet-nozes/
+│     └─ index.html
+├─ pages/
+│  ├─ adicionar-receita/
+│  │  └─ index.html
+│  └─ compartilhar/
+│     └─ index.html
+├─ index.html
+├─ LICENSE
+└─ README.md
+
+
+---
+
+## ▶️ Como executar
+1. Baixe/clone o repositório.
+2. Abra o arquivo `index.html` no navegador (ou use o Live Server no VS Code).
+
+---
+
+## 📌 Observações
+- Esse repositório é focado no **aprendizado** e no registro da evolução do projeto durante o curso.
+- Vou atualizando o checklist conforme avanço nas aulas.
+
+---
+
+## 👤 Autor
+Wesley
+
