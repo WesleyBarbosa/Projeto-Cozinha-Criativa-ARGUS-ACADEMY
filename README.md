@@ -83,5 +83,7 @@ A organização foi feita no padrão do **GitHub Pages**, usando `index.html` de
 ---
 
 ## 👤 Autor
-Wesley
+**Wesley Barbosa**  
+Desenvolvedor Front-end  
 
+- GitHub: https://github.com/WesleyBarbosa
