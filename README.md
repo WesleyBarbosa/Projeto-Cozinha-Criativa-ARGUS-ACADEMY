@@ -24,7 +24,7 @@ Checklist conforme as aulas do curso:
 - [x] **176.** Adicionando o footer *(3m)*
 - [x] **177.** Página sobremesas — Adicionando o header e o footer *(4m)*
 - [x] **178.** Página sobremesas — Adicionando o main *(11m)*
-- [ ] **179.** Página de receita — Adicionando a página, navegação, header e footer *(8m)*
+- [x] **179.** Página de receita — Adicionando a página, navegação, header e footer *(8m)*
 - [ ] **180.** URL relativa e absoluta *(11m)*
 - [ ] **181.** Página de receita — Adicionando o main parte 1 *(4m)*
 - [ ] **182.** Página de receita — Adicionando o main parte 2 *(5m)*
