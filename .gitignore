@@ -1,4 +1,3 @@
-# Editor (VS Code)
 # VS Code (config local)
 .vscode/
 
@@ -9,5 +8,6 @@ Thumbs.db
 # Logs e temporários
 *.log
 *.tmp
-.vscode/settings.json
 
+# VS Code - só configurações locais
+.vscode/settings.json
