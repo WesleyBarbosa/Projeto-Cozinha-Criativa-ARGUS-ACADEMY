@@ -38,7 +38,15 @@ Checklist conforme as aulas do curso:
 
 ---
 
-PROJETO-COZINHA-CRIATIVA-ARGUS-ACADEMY/
+---
+
+## 🗂️ Estrutura de pastas (HTML puro)
+Este projeto é **100% HTML**, sem CSS e sem JavaScript.  
+A organização foi feita no padrão do **GitHub Pages**, usando `index.html` dentro de cada pasta para gerar URLs limpas.
+
+```text
+/
+├─ index.html
 ├─ assets/
 │  └─ images/
 ├─ bebidas/
@@ -52,14 +60,12 @@ PROJETO-COZINHA-CRIATIVA-ARGUS-ACADEMY/
 ├─ receitas/
 │  └─ brigadeiro-gourmet-nozes/
 │     └─ index.html
-├─ pages/
-│  ├─ adicionar-receita/
-│  │  └─ index.html
-│  └─ compartilhar/
-│     └─ index.html
-├─ index.html
-├─ LICENSE
-└─ README.md
+└─ pages/
+   ├─ adicionar-receita/
+   │  └─ index.html
+   └─ compartilhar/
+      └─ index.html
+
 
 
 ---
