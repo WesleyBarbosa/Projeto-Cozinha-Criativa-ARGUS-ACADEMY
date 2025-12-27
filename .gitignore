@@ -1,2 +1,13 @@
 # Editor (VS Code)
+# VS Code (config local)
 .vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs e temporários
+*.log
+*.tmp
+.vscode/settings.json
+
