@@ -57,14 +57,14 @@
             <table width="900" align="center" border="1">
                 <tbody>
                     <tr>
-                        <td colspan="3" align="center">
+                        <td colspan="2" align="center">
                             <hr>
                             <h2>Compartilhar minhas receitas</h2>
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            <label for="nome-receita">Nome da Receita</label>
+                            <label for="nome-receita">Nome da Receita:</label>
                             <input type="text" id="nome-receita" name="nome-receita"
                                 placeholder="Digite o nome da receita">
                         </td>
@@ -75,7 +75,7 @@
                                 <option value="sobremesas">Sobremesas</option>
                                 <option value="carnes">Carnes</option>
                                 <option value="massas">Massas</option>
-                                <option value="bebidas" selected>Bebidas</option>
+                                <option value="bebidas">Bebidas</option>
                             </select>
                         </td>
                     </tr>
@@ -93,6 +93,44 @@
                                 <option value="medio">Médio</option>
                                 <option value="dificil">Difícil</option>
                             </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="nomeAutor">Nome do Autor:</label><br>
+                            <input type="text" id="nomeAutor" name="nomeAutor">
+                        </td>
+                        <td>
+                            <label for="emailAutor">Email do Autor:</label><br>
+                            <input type="email" id="emailAutor" name="emailAutor">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <label for="ingredientes">Ingredientes:</label><br>
+                            <textarea 
+                                name="ingredientes"
+                                id="ingredientes"
+                                rows="4" 
+                                cols="70">
+                            </textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <label for="modoPreparo">Modo de Preparo:</label><br>
+                            <textarea 
+                                name="modoPreparo"
+                                id="modoPreparo"
+                                rows="4" 
+                                cols="70">
+                            </textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <label for="imagemReceita">Imagem da Receita:</label><br>
+                            <input type="file" id="imagemReceita" name="imagemReceita">
                         </td>
                     </tr>
                 </tbody>
