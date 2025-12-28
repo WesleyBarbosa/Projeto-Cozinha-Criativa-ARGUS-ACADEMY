@@ -26,10 +26,10 @@ Checklist conforme as aulas do curso:
 - [x] **178.** Página sobremesas — Adicionando o main *(11m)*
 - [x] **179.** Página de receita — Adicionando a página, navegação, header e footer *(8m)*
 - [x] **180.** URL relativa e absoluta *(11m)*
-- [ ] **181.** Página de receita — Adicionando o main parte 1 *(4m)*
-- [ ] **182.** Página de receita — Adicionando o main parte 2 *(5m)*
-- [ ] **183.** Página de receita — Adicionando o main parte 3 *(6m)*
-- [ ] **184.** Página de compartilhamento de receitas — Adicionando o header e o footer *(2m)*
+- [x] **181.** Página de receita — Adicionando o main parte 1 *(4m)*
+- [x] **182.** Página de receita — Adicionando o main parte 2 *(5m)*
+- [x] **183.** Página de receita — Adicionando o main parte 3 *(6m)*
+- [x] **184.** Página de compartilhamento de receitas — Adicionando o header e o footer *(2m)*
 - [ ] **185.** Página de compartilhamento de receitas — Adicionando o main *(15m)*
 - [ ] **186.** Adicionando um modal para assinatura de newsletter parte 1 *(5m)*
 - [ ] **187.** Adicionando um modal para assinatura de newsletter parte 2 *(7m)*
