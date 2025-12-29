@@ -49,6 +49,8 @@ A organização foi feita no padrão do **GitHub Pages**, usando `index.html` de
 ├─ index.html
 ├─ assets/
 │  └─ images/
+|  └─ css/style.css
+|  └─ js/script.js
 ├─ bebidas/
 │  └─ index.html
 ├─ carnes/
