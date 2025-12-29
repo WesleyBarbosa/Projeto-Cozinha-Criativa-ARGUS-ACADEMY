@@ -1,0 +1,13 @@
+# VS Code (config local)
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs e temporários
+*.log
+*.tmp
+
+# VS Code - só configurações locais
+.vscode/settings.json

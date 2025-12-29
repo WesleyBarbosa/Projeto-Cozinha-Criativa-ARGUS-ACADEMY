@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cozinha Criativa - Compartilhar Receita</title>
+</head>
+
+<body>
+    <!-- Neste Projeto utiliza-se Tabelas (Table) para fins didáticos sem uso de CSS -->
+    <header>
+        <div>
+            <table width="900" align="center">
+                <tbody>
+                    <tr>
+                        <td>
+                            <a href="./index.html">
+                                <img src="./assets/images/logo.png" alt="logo cozinha criativa" width="230px">
+                            </a>
+                        </td>
+                        <td align="right">
+                            <nav>
+                                <a href="./sobremesas/index.html">Sobremesa</a> |
+                                <a href="./carnes/index.html">Carnes</a> |
+                                <a href="./massas/index.html">Massas</a> |
+                                <a href="./bebidas/index.html">Bebidas</a> |
+                                <a href="./adicionar-receita.html">Compartilhar Receita</a>
+                            </nav>
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </header>
+
+    <main>
+        <table width="900" align="center">
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="./assets/images/banner_compartilhar_receita.jpg" alt="Compartilhar Receita"
+                            width="100%" height="400px">
+                        <p>Compartilhar receitas em um site vai muito além de apenas listar ingredientes; é uma forma
+                            poderosa de preservar cultura, criar comunidade e gerar autoridade digital. Em um mundo cada
+                            vez mais conectado, o ato de postar uma receita transforma um conhecimento individual em um
+                            benefício coletivo, democratizando o acesso à culinária e incentivando hábitos saudáveis.
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <form>
+            <!-- <h1>Confira as principais receitas</h1>-->
+            <table width="900" align="center">
+                <tbody>
+                    <tr>
+                        <td colspan="2" align="center">
+                            <hr>
+                            <h2>Compartilhar minhas receitas</h2>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="nome-receita">Nome da Receita:</label>
+                            <input type="text" id="nome-receita" name="nome-receita"
+                                placeholder="Digite o nome da receita">
+                        </td>
+
+                        <td>
+                            <label for="categorias">Categorias</label>
+                            <select id="categorias" name="categorias">
+                                <option value="sobremesas">Sobremesas</option>
+                                <option value="carnes">Carnes</option>
+                                <option value="massas">Massas</option>
+                                <option value="bebidas">Bebidas</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="tempo-preparo">Tempo de Preparo</label>
+                            <input type="text" id="tempo-preparo" name="tempo-preparo"
+                                placeholder="Digite o tempo de preparo">
+                        </td>
+
+                        <td>
+                            <label for="dificuldade">Dificuldade</label>
+                            <select id="dificuldade" name="dificuldade">
+                                <option value="facil">Fácil</option>
+                                <option value="medio">Médio</option>
+                                <option value="dificil">Difícil</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="nomeAutor">Nome do Autor:</label><br>
+                            <input type="text" id="nomeAutor" name="nomeAutor">
+                        </td>
+                        <td>
+                            <label for="emailAutor">Email do Autor:</label><br>
+                            <input type="email" id="emailAutor" name="emailAutor">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <label for="ingredientes">Ingredientes:</label><br>
+                            <textarea 
+                                name="ingredientes"
+                                id="ingredientes"
+                                rows="4" 
+                                cols="70">
+                            </textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <label for="modoPreparo">Modo de Preparo:</label><br>
+                            <textarea 
+                                name="modoPreparo"
+                                id="modoPreparo"
+                                rows="4" 
+                                cols="70">
+                            </textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <label for="imagemReceita">Imagem da Receita:</label><br>
+                            <input type="file" id="imagemReceita" name="imagemReceita">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" align="right">
+                            <button type="submit">Compartilhar Receita</button>
+                            <hr>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </form>
+
+    </main>
+
+    <footer>
+        <div align="center">
+            <address>
+                <p>Endereço: Av. Paulista, 1000 - Bela Vista, SP</p>
+                <p>Telefone: (62) 1234-5678 | Email: <a href="mailto:wesley@example.com">wesley@example.com</a></p>
+                <p>&copy; 2024 Cozinha Criativa - ARGUS ACADEMY</p>
+            </address>
+        </div>
+
+    </footer>
+
+</body>
+
+</html>
