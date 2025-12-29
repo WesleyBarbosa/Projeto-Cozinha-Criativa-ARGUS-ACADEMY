@@ -30,10 +30,10 @@ Checklist conforme as aulas do curso:
 - [x] **182.** Página de receita — Adicionando o main parte 2 *(5m)*
 - [x] **183.** Página de receita — Adicionando o main parte 3 *(6m)*
 - [x] **184.** Página de compartilhamento de receitas — Adicionando o header e o footer *(2m)*
-- [ ] **185.** Página de compartilhamento de receitas — Adicionando o main *(15m)*
-- [ ] **186.** Adicionando um modal para assinatura de newsletter parte 1 *(5m)*
-- [ ] **187.** Adicionando um modal para assinatura de newsletter parte 2 *(7m)*
-- [ ] **188.** Adicionando um modal para assinatura de newsletter parte 3 *(17m)*
+- [x] **185.** Página de compartilhamento de receitas — Adicionando o main *(15m)*
+- [x] **186.** Adicionando um modal para assinatura de newsletter parte 1 *(5m)*
+- [x] **187.** Adicionando um modal para assinatura de newsletter parte 2 *(7m)*
+- [x] **188.** Adicionando um modal para assinatura de newsletter parte 3 *(17m)*
 - [ ] **189.** Ajustes finais do projeto prático e proposta de desafio *(5m)*
 
 ---
