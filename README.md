@@ -34,7 +34,7 @@ Checklist conforme as aulas do curso:
 - [x] **186.** Adicionando um modal para assinatura de newsletter parte 1 *(5m)*
 - [x] **187.** Adicionando um modal para assinatura de newsletter parte 2 *(7m)*
 - [x] **188.** Adicionando um modal para assinatura de newsletter parte 3 *(17m)*
-- [ ] **189.** Ajustes finais do projeto prático e proposta de desafio *(5m)*
+- [x] **189.** Ajustes finais do projeto prático e proposta de desafio *(5m)*
 
 ---
 
