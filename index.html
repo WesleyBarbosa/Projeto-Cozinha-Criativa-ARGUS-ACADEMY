@@ -144,12 +144,14 @@
         <h3>Assine nossa newsletter!</h3>
         <p>Receba as ultimas novidades da nossa cozinha criativa diretamente na sua caixa de email</p>
 
-        <form>
+        <form id="newsletterForm" method="post" action="./assinar-newsletter.html">
             <input type="email" id ="email" name="email" placeholder="Digite seu email" required>
-            <button type="submit">Assinar</button>
-            <button type="submit">Cancelar</button>
+            <button type="submit" id="subscribeButton">Assinar</button>
+            <button type="submit" id="cancelButton">Cancelar</button>
         </form>
     </dialog>
+
+    <script src="/assets/js/script.js"></script>
 
 </body>
 </html>
